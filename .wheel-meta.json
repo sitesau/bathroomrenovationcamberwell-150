@@ -1,0 +1,17 @@
+{
+  "wheel_id": 47,
+  "slug": "bathroomrenovationcamberwell-150",
+  "project": "bathroom-renovation-camberwell-b-150",
+  "parent_t1_ref": "bathroomrenovationcamberwell-001",
+  "node_role": "buffer",
+  "money_target": "bathroomrenovationcamberwell.com.au",
+  "primary_kw": "bathroom renovation camberwell",
+  "intended_url": "https://bathroom-renovation-camberwell-b-150.s3.ap-southeast-2.amazonaws.com/index.html",
+  "links": [
+    {
+      "target_url": "https://storage.googleapis.com/bathroomrenovationcamberwell-001/bathroom-renovation-camberwell.html",
+      "anchor": "bathroom renovation camberwell",
+      "rel": "follow"
+    }
+  ]
+}
